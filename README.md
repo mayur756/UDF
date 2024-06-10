@@ -1,6 +1,6 @@
 🧮✨ UDF ✨🧮
 
-Hello LinkedIn Community! 👋 I'm thrilled to share my latest project developed with java script! 🚀 Presenting the UDF function and CRUD OPERATION.
+Hello LinkedIn Community! 👋 I'm thrilled to share my latest project developed with java script! 🚀 Presenting the UDF function.
 
 🌟 Key Features:
 
